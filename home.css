@@ -1,5 +1,7 @@
 .welcome-box {
-    background-color: salmon;
+    background-color: lightgray;
+    border-style: ridge;
+    border-color: lightgray;
     margin: 16px;
     padding: 4px;
     width: 80%;
@@ -19,7 +21,7 @@
 
 .content-table h3 {
     text-align: center;
-    border-style: groove;
+    border-style: ridge;
     margin-left: 5%;
     margin-right: 5%;
 }
