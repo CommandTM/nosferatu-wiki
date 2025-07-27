@@ -1,0 +1,45 @@
+.welcome-box {
+    background-color: salmon;
+    margin: 16px;
+    padding: 4px;
+    width: 80%;
+}
+
+.welcome-box p {
+    margin: 0;
+}
+
+.content {
+    margin: auto;
+}
+
+.content-table {
+    width: 100%;
+}
+
+.content-table h3 {
+    text-align: center;
+    border-style: groove;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.recent-chapters {
+    background-color: salmon;
+    vertical-align: top;
+}
+
+.recent-chapters h3 {
+    background-color: darksalmon;
+    border-color: darksalmon;
+}
+
+.authors {
+    background-color: lightblue;
+    vertical-align: top;
+}
+
+.authors h3 {
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+}
