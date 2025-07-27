@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: black;
+}
+
+.banner-logo {
+    width: 100%;
+}
+
+.header-table {
+    width: 100%;
+}
+
+.header-logo {
+    width: 25%;
+    padding-right: 20px;
+}
+
+.header-donate {
+    text-align: right;
+}
