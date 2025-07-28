@@ -45,3 +45,13 @@
     background-color: lightskyblue;
     border-color: lightskyblue;
 }
+
+.disclaimer {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.disclaimer h3 {
+    background-color: lightgrey;
+    border-color: lightgrey;
+}
