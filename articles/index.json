@@ -1,16 +1,36 @@
 {
   "Authors": [
     {
+      "name": "cm14tm",
+      "url": "../authors/cm14.html"
+    },
+    {
       "name": "CommandTM",
       "url": "../authors/commandtm.html"
+    },
+    {
+      "name": "Goat Girl Gwen",
+      "url": "../authors/goatgirlgwen.html"
+    },
+    {
+      "name": "JaiTM",
+      "url": "../authors/jaitm.html"
+    },
+    {
+      "name": "JemmaTheCube",
+      "url": "../authors/jemmathecube.html"
+    },
+    {
+      "name": "KcBreadz",
+      "url": "../authors/kcbreadz.html"
     },
     {
       "name": "MurphEXE",
       "url": "../authors/murphexe.html"
     },
     {
-      "name": "JemmaTheCube",
-      "url": "../authors/jemmathecube.html"
+      "name": "RkSona",
+      "url": "../authors/rksona.html"
     },
     {
       "name": "Silver Shorthair",
@@ -23,26 +43,6 @@
     {
       "name": "Yalda",
       "url": "../authors/yalda.html"
-    },
-    {
-      "name": "Goat Girl Gwen",
-      "url": "../authors/goatgirlgwen.html"
-    },
-    {
-      "name": "cm14tm",
-      "url": "../authors/cm14.html"
-    },
-    {
-      "name": "JaiTM",
-      "url": "../authors/jaitm.html"
-    },
-    {
-      "name": "KcBreadz",
-      "url": "../authors/kcbreadz.html"
-    },
-    {
-      "name": "RkSona",
-      "url": "../authors/rksona.html"
     }
   ]
 }
