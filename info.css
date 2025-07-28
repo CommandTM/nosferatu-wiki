@@ -1,0 +1,83 @@
+    /* Infobox */
+    .infobox {
+        border: solid #cecece 1px;
+        background-color: #b2b2b2;
+        width: 270px;
+        padding: 2px;
+        float: right;
+        margin: 5px;
+    }
+
+    .infoname {
+        background-color: #a12a2a;
+        color: white;
+    }
+
+    .infoth {
+        text-align: left;
+        width: 5px;
+        padding-right: 35px;
+    }
+    .infotd {
+        text-align: left;
+    }
+
+    /* Page body */
+
+    .content {
+        width: 95%;
+        margin: auto;
+    }
+
+    h1 {
+        font-weight: normal;
+    }
+
+    h2 {
+        font-weight: normal;
+        margin-bottom: 5px;
+    }
+
+    .reviews {
+    width: 50%;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+/* Messageboxes */
+
+  .nokillbox {
+    background-color: #a12a2a;
+    padding: 5px;
+    color: white;
+    border: outset salmon 2px;
+  }
+
+.lackingbox {
+    background-color: #843a4c;
+    padding: 5px;
+    color: white;
+    border: outset #694951 2px;
+  }
+
+.wipbox {
+    background-color: #e0ac00;
+    padding: 5px;
+    color: black;
+    border: outset #cfc247 2px;
+  }
+
+  .updatebox {
+    background-color: #2f5383;
+    padding: 5px;
+    color: white;
+    border: outset #405188 2px;
+  }
+
+  .improvebox {
+    background-color: #552d85;
+    padding: 5px;
+    color: white;
+    border: outset #120c3d 2px;
+  }
