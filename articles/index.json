@@ -1,7 +1,7 @@
 {
   "Authors": [
     {
-      "name": "cm14tm",
+      "name": "cm14",
       "url": "../authors/cm14.html"
     },
     {
@@ -43,6 +43,100 @@
     {
       "name": "Yalda",
       "url": "../authors/yalda.html"
+    }
+  ],
+  "Chapters": [
+    {
+      "name": "I'm About To Get Into The Shower (Chapter 1)",
+      "url": "../chapters/chapter-1.html"
+    },
+    {
+      "name": "5/01 (Chapter 2)",
+      "url": "../chapters/chapter-2.html"
+    },
+    {
+      "name": "Train Crash! (Chapter 3)",
+      "url": "../chapters/chapter-3.html"
+    },
+    {
+      "name": "Interlude (Chapter 4)",
+      "url": "../chapters/chapter-4.html"
+    },
+    {
+      "name": "Wait, What The Fuck? How did this Happen? (Chapter 5)",
+      "url": "../chapters/chapter-5.html"
+    },
+    {
+      "name": "Rumination (Chapter 6)",
+      "url": "../chapters/chapter-6.html"
+    },
+    {
+      "name": "The Pearl Harbor of Subway Sandwiches (Chapter 7)",
+      "url": "../chapters/chapter-7.html"
+    },
+    {
+      "name": "Messenger (Chapter 8)",
+      "url": "../chapters/chapter-8.html"
+    },
+    {
+      "name": "The One Where Tons of Exposition and More Happens (Chapter 9)",
+      "url": "../chapters/chapter-9.html"
+    },
+    {
+      "name": "Assault in New Flagstaff (Chapter 10)",
+      "url": "../chapters/chapter-10.html"
+    },
+    {
+      "name": "Eye Of The Storm (Chapter 11)",
+      "url": "../chapters/chapter-11.html"
+    },
+    {
+      "name": "The Search For Something (Chapter 12)",
+      "url": "../chapters/chapter-12.html"
+    },
+    {
+      "name": "Owen Wilson, a God (Chapter 13)",
+      "url": "../chapters/chapter-13.html"
+    },
+    {
+      "name": "A Plan Gone Awry (Chapter 14)",
+      "url": "../chapters/chapter-14.html"
+    },
+    {
+      "name": "Dr. Kramer or: How I Learned How To Stop Worrying and Love Torturing Tricky Dick (Chapter 15)",
+      "url": "../chapters/chapter-15.html"
+    },
+    {
+      "name": "Do You Think You're Able To Kill Coach In Heavy Rain? (Chapter 16)",
+      "url": "../chapters/chapter-16.html"
+    },
+    {
+      "name": "Dealbreaker (Chapter 17)",
+      "url": "../chapters/chapter-17.html"
+    },
+    {
+      "name": "The Wacky Adventures Of Those Who Transcend A God (Chapter 18)",
+      "url": "../chapters/chapter-18.html"
+    },
+    {
+      "name": "An Agreement Made (Chapter 19)",
+      "url": "../chapters/chapter-19.html"
+    },
+    {
+      "name": "House of Blossoms (Chapter 20)",
+      "url": "../chapters/chapter-20.html"
+    },
+    {
+      "name": "Go To Bermuda (Chapter 21)",
+      "url": "../chapters/chapter-21.html"
+    },
+    {
+      "name": "The 241st Hour (Chapter 22)",
+      "url": "../chapters/chapter-22.html"
+    },
+    {
+      "name": "Rendez-Vous or: Three and a Half Stories to Leave Harry Reid International Airport to (Chapter 23)",
+      "url": "../chapters/chapter-23.html"
     }
   ]
 }

@@ -29,6 +29,7 @@
 .recent-chapters {
     background-color: salmon;
     vertical-align: top;
+    width: 50%;
 }
 
 .recent-chapters h3 {
@@ -36,9 +37,14 @@
     border-color: darksalmon;
 }
 
+.recent-chapters p {
+    text-align: center;
+}
+
 .authors {
     background-color: lightblue;
     vertical-align: top;
+    width: 50%;
 }
 
 .authors h3 {
